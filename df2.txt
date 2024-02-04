@@ -1,0 +1,6 @@
+emp_id	dept
+1	HR
+2	Marketing
+3	Finance
+6	IT
+7	Operations

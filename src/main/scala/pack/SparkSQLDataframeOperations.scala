@@ -7,9 +7,9 @@ import org.apache.spark.sql.functions._
 
 object SparkSQLDataframeOperations {
 
-  def main(array: Array[String]): Unit={
-    // spark application is used to set property that specifies location of hadddop installation directory.
-    System.setProperty("hadoop.home.dir", "file:///Users/nikhilsaireddychoppa/Downloads/scala/hadoop")
+  def main(args: Array[String]): Unit={
+    // spark application is used to set property that specifies location of haddop installation directory.
+    System.setProperty("hadoop.home.dir", "file:///Users/nikhilsaireddychoppa/Downloads/scala/hadoop/winutils.exe")
 
     println("========Started========")
 
